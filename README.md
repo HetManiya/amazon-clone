@@ -7,3 +7,5 @@ I will add my simple project which is the clone of the amazon.
 I will make this project only uses of html and css.
 <br>
 author-Het Maniya.
+<br>
+pls use this project.
